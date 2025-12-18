@@ -1,4 +1,4 @@
-﻿# SPAn-net
+﻿# SPAn-net ICASSP-1347
 ![./figs/pipeline.pngg](./figs/pipeline.png)
 
 This repository contains the supplementary materials for the SPAn-net project, which has been submitted for review at ICASSP.  We appreciate the reviewers' and editors' time and effort in reviewing these documents.  Below is a brief description of each PDF file included in this repository:
@@ -16,3 +16,4 @@ This repository contains the supplementary materials for the SPAn-net project, w
 - **Purpose:** The highlight revision document showcases the specific changes made to the original manuscript.  It uses tracked changes or highlighting to make it easy for reviewers and editors to see exactly what has been modified in response to their feedback.
 
 We have structured these documents to facilitate a smooth review process and to ensure that all concerns are adequately addressed.  Thank you once again for considering our work for publication.
+
