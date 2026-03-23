@@ -1,7 +1,7 @@
 ﻿# SPAn-net ijcnn_pap1668
 ![./figs/pipeline.pngg](./figs/pipeline.png)
 
-This repository contains the supplementary materials for the SPAn-net project, which has been submitted for review at IJCNN.  We appreciate the reviewers' and editors' time and effort in reviewing these documents.  Below is a brief description of each PDF file included in this repository:
+This repository contains the supplementary materials for the SPAn-net project, which has been submitted for review at IJCNN.  We appreciate the reviewers' and editors' time and effort in reviewing these documents.  Demo version code can be seen at: https://github.com/S2CTransNet/SPA-net/. The full code will be released after the paper is published. Below is a brief description of each PDF file included in this repository:
 
 1.  **SPAn-net_respond.pdf**
 - **Purpose:** This document contains our official response to the reviewers' comments.  It provides a detailed point-by-point respond to each of the reviewers' suggestions and concerns, explaining how we have addressed them in our revised manuscript.
